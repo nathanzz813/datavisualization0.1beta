@@ -54,5 +54,3 @@ if not str(input('Make Image :: y for YES, n for NO ')) == str('n'):
 
 if not str(input('View Plot Sir :: y for YES, n for NO ')) == str('n'):
 	plt.show()
-
-#https://github.com/alexandremax1m/_myautoplotlib
